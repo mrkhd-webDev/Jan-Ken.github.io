@@ -84,7 +84,7 @@ function janken(tangan) {
       } else if (jariKen == 1) {
         result("draw");
       } else {
-        result("palyer");
+        result("player");
       }
       break;
     default:
